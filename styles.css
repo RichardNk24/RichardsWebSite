@@ -13,6 +13,7 @@ h1{
 }
 
 h2{
+    
     color: #66BFBF;
     font-size: 2.5rem;
     font-family: 'Montserrat', sans-serif;
@@ -22,6 +23,7 @@ h2{
 }
 
 h3{
+    
     color: #11999E;
     font-size: 1.5rem;
     font-family: 'Montserrat', sans-serif;
@@ -34,6 +36,7 @@ p{
 }
 
 hr{
+    
     border-top-style: dotted;
     border-width: 9px 0 0 0;
     color: #EAF6F6;
@@ -42,11 +45,13 @@ hr{
 }
 
 .intro{
+    
     width: 40%;
     margin: auto;
 }
 
 .top-container{
+    
     background-color: #EAF6F6;
     position: relative;
     padding: 100px;
@@ -54,18 +59,21 @@ hr{
 }
 
 .bottom-container{
+    
     position: relative;
     background-color: #66BFBF;
     padding: 60px 0 20px;
 }
 
 .middle-container{
+    
     padding-top: 50px;
     padding-bottom: 40px;
 
 }
 
 .top-cloud{
+    
     position: absolute;
     right: 400px;
     top: 40px;
